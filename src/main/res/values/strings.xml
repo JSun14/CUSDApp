@@ -1,0 +1,257 @@
+<resources>
+    <string name="app_name">CUSD</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="introduction_blurb">In order to support the success of all Chandler Unified School
+        District (CUSD) students, the departments of Equity &amp; Inclusion and Counseling &amp; Social Services
+        will host the inaugural summer educational equity symposium - Breaking Barriers for Excellence.
+        This two-day event seeks to build the capacity of faculty and staff. Members of the CUSD community
+        will explore:
+\n\n Culturally relevant pedagogy
+\n Suicide awareness and prevention
+\n Adverse Childhood Experiences (ACEs)
+\n Implicit and unconscious bias
+\n Collaboration between schools and communities, and
+\n A host of socio-emotional-learning and instructional strategies.
+\n\n The professional development will allow faculty and staff to be immersed in learning with the goal
+of transforming CUSD in meeting our Journey 2025 strategic plan. The two-day symposium invites thought
+leaders (national and local) and CUSD faculty to create a space for \"courageous conversations\". The space
+will allow educators to build a deeper understanding of our diverse learning community, explore best practices
+in meeting the varied learning needs of our students, and fulfill the promise to our parents.</string>
+    <string name="day1schedule"><b>7:30 AM</b>
+    \n Welcome
+    \n Room: Auditorium
+        \n \n <b>8:00 AM</b>
+        \n Keynote: Dr. Angelina Castagno - The Price of Nice: How Niceness Reinforces Educational Inequity
+        \n Room: Auditorium
+        \n \n <b>9:15 AM</b>
+        \n CUSD Leadership Track - Unpacking the Keynote with Dr. Castagno
+        \n Room: Cafeteria
+        \n \n <b>9:15 AM</b>
+        \n Breakout Session 1
+        \n Room: Various
+        \n \n <b>10:30 AM</b>
+        \n Breakout Session 2
+        \n Room: Various
+        \n \n <b>11:30</b>
+        \n Lunch
+        \n Room: Cafeteria
+        \n \n <b>12:30 PM</b>
+        \n Keynote: Marcia Stanton - Understanding ACEs and Their Impact on Learning, Development and Behavior in School
+        \n Room: Auditorium
+        \n \n <b>1:45 PM</b>
+        \n Teacher Equity Leadership Track - Unpacking the Keynote with Dr. Castagno
+        \n Room: Cafeteria
+        \n \n <b>1:45 PM</b>
+        \n Breakout Session 3
+        \n Room: Various
+        \n \n <b>3:00 PM</b>
+        \n TED Talk Parent Panel - Stories Are Important: Let Me Tell You About My Child/Children
+        \n Room: Auditorium
+    </string>
+    <string name="day1"><b>Day 1</b></string>
+    <string name="day2"><b>Day 2</b></string>
+    <string name="day2schedule"><b>7:30 AM</b>
+    \n Welcome
+    \n Room: Auditorium
+    \n \n <b>8:00 AM</b>
+    \n Keynote: Dr. Tyrone Howard - Educating and Supporting Boys and Young Men of Color
+    \n Room: Auditorium
+    \n \n <b>9:15 AM</b>
+    \n CUSD Leadership Track - Unpacking the Keynote with Dr. Howard
+    \n Room: Cafeteria
+    \n \n <b>9:15 AM</b>
+    \n Breakout Session 1
+    \n Room: Various
+    \n \n <b>10:30 AM</b>
+    \n Breakout Session 2
+    \n Room: Various
+        \n \n <b>11:30 AM</b>
+        \n Lunch
+        \n Cafeteria
+        \n \n <b>12:30 PM</b>
+        \n Keynote: Dr. William De La Cruz - Deconstructing our Blindspots - Examining the Role of Bias (Unconscious and Conscious) and its Implications for Educators
+        \n Room: Auditorium
+        \n \n <b>1:45 PM</b>
+        \n CUSD Leadership Track - Unpacking the Keynote with Dr. De La Cruz
+        \n Room: Cafeteria
+        \n \n <b>1:45 PM</b>
+        \n Breakout Session 3
+        \n Room: Various
+        \n \n <b>3:00 PM</b>
+        \n Student Voice Panel - Can we say something? We are really the experts about school and learning
+        \n Room: Auditorium
+    </string>
+    <string name="keynotes"><b>Keynote Speakers</b></string>
+    <string name="sessiondescr"><b>Session Descriptions</b></string>
+    <string name="castagnoname">Dr. Angelina Castagno</string>
+    <string name="castagnodescr"><b>The Price of Nice: How Niceness Perpetuates Educational Inequity</b>
+    \n \n Despite their good intentions and the general Niceness among educators, most schools in the United States contribute to inequity every day.
+        How does this happen? And what might be done about this paradox? The opening keynote will address these questions so that we can begin to examine our own
+        role in patterned educational inequities, and specifically, how our Niceness may be getting in the way of our efforts to advance equity in our district.</string>
+    <string name="stantonname">Maria Stanton MSW</string>
+    <string name="stantondescr"><b>Understanding ACEs and Their Impact on Learning, Development and Behavior in School</b>
+    \n \n In Arizona and across the US, educators are working to understand Adverse Childhood Experiences (ACEs) and their impact on learning and behavior.
+        This presentation will include a brief overview of the groundbreaking ACEs Study and share ACE incidence data for Arizona children and youth: what the data
+        tells us, why schools should care, and what we can do about it.</string>
+    <string name="howardname">Tyrone C. Howard, Ph.D.</string>
+    <string name="howarddescr"><b>Educating and Supporting Boys and Young Men of Color</b>
+    \n \n This keynote examines the educational state of affairs for males of color in schools today, and offers recommendations, strategies, and approaches that
+        practitioners and school leaders can take to assist them academically, socially, and emotionally.</string>
+    <string name="cruzname">Dr.  William de la Cruz</string>
+    <string name="cruzdescr"><b>Deconstructing our Blindspots - Examining the Role of Bias (Unconscious and Conscious) and its Implications
+        for Educators</b>
+        \n \n In the past 20 years, educational researchers have examined bias, (conscious and unconscious) and its role in shaping perceptions,
+        engagement and expectations of students. When unexamined, bias can have implications far beyond the classroom. Thus, recognizing our bias through
+        self-awareness is critical for teaching a diverse student body. This keynote will address bias and its repercussion in K-12 settings.</string>
+    <string name="sessiondescrdisclaimer">*Each separate session is available for all three Breakout Sessions on the day they are scheduled.</string>
+    <string name="sessiondescr5"><b>Children\'s Play: Examining the Impact of Educators\' Conscious and Unconscious Biases on the Social,
+    Emotional, and Cognitive Development of Children of African Descent</b>
+    \n Latisha Barret
+    \n \n <b>Cultivating Equitable Classrooms for Students in Special Education</b>
+    \n Michelle Capriotti
+    \n \n <b>Say This, Not That</b>
+    \n Carla Rivera-Cruz
+    \n \n <b>Providing Access - Relationships, Engagement, and Rigor for English Learners</b>
+    \n Katherine English
+    \n \n <b>Culturally Responsive Practices: Closing the Achievement and Discipline Gap</b>
+    \n Yadira Flores
+    \n \n <b>Creating Safe Spaces (How to Be an Ally to LGBTQ Youth)</b>
+    \n GLSEN
+    \n \n <b>Suicide Awareness and Prevention</b>
+    \n Paula McCall
+    \n \n <b>It Takes a Village!</b>
+    \n Dr. Jeff McGee
+    \n \n <b>Identifying, Understanding, and Treating Eating Disorders Among Adolescents</b>
+    \n Stephanie Paige
+    \n \n <b>Be a Warmer Demander: Utilizing Relationship, Relevance, Realness and Rigor</b>
+    \n Johnna Pascador
+    \n \n <b>Money to Memphis</b>
+    \n John Prothro
+    \n \n <b>Inclusiveness with LGBTQ+ Students</b>
+    \n Kinsey Welsh
+    \n \n <b>Cultural Humidity | Equity for Native American Students</b>
+    \n Rowdy Duncan </string>
+    <string name="sessiondescr6"><b>Reel Indian? Examining the effects of Indigenous Media Representation and its Implication for K-12 Education</b>
+    \n Mina Bhagdev
+    \n \n <b>The Wellness in You!</b>
+    \n Crystal Blackwell
+    \n \n <b>Trauma Informed Practices in Education</b>
+    \n Carolyn Contreras
+    \n \n <b>Boxing in Our Future with Labels</b>
+    \n Jasmine Davis
+    \n \n <b>Building LGBTQ-Inclusive Elementary Schools: Ready, Set, Respect!</b>
+    \n GLSEN
+    \n \n <b>The Classroom Teacher\'s Impact on a Student\'s Life Story</b>
+    \n Leslie Hicks
+    \n \n <b>Non-Suicidal Self-Injury: Understanding and Response</b>
+    \n Paula McCall
+    \n \n <b>Closing the Achievement Gap: Understanding Classroom Life Through Exploratory Practice</b>
+    \n Melanie Mello
+    \n \n <b>Not Just About Budgeting: How Participatory Democracy Deepens Civic Engagement and Strengthens School Communities</b>
+    \n Sarah Sacco
+    \n \n <b>A Dream Deferred</b>
+    \n Russell Tribby
+    \n \n <b>Building Educators Cultural Capacity about Native American History and Students in Arizona</b>
+    \n Leticia Velarde
+    \n \n <b>Trauma Informed Educators</b>
+    \n Lee Underwood
+    \n \n <b>Recruitment and Retention of Non-Traditional (Gender) CTE Students</b>
+    \n Tim Wernette</string>
+    <string name="junefifth"><b>June 5th</b></string>
+    <string name="junesixth"><b>June 6th</b></string>
+    <string name="breakoutsessions">Breakout Session Schedules
+    \n 9:15 AM - 10:15 AM
+    \n 10:30 AM - 11:30 AM
+    \n 1:45 PM - 2:45 PM</string>
+    <string name="linktosite">Click to see more about these speakers</string>
+    <string name="feedblurb"><b>Feedback on your experience here at the symposium is appreciated!</b></string>
+    <string name="survey1">Feedback for the symposium on June 5th</string>
+    <string name="survey2">Feedback for the symposium on June 6th</string>
+    <string name="survey3">Feedback for the overall experience of June 5th</string>
+    <string name="survey4">Feedback for the overall experience of June 6th</string>
+    <string name="defofterms"><b>The isms: </b>The “isms” are usually based on prejudiced stereotyping that result in discrimination
+        which leads to marginalization and are damaging to human health and well-being. Some of the more common “isms” are:
+    \n \n  -  <b>Ageism: </b>Linked to age. This “ism” is a widespread and insidious practice. Ageism poses an everyday challenge for
+        many people who may be overlooked for employment, restricted from social services, and be stereotyped in the media.
+        Ageism marginalizes and excludes people from their communities. The most socially “normalized” and least countered “isms”.
+        (Adapted from the World Health Organization website).
+    \n \n  -  <b>Heterosexism: </b>The denial, denigration, and stigmatization of any non-heterosexual form of behavior, identity,
+        relationship, or community. The term heterosexism was coined to highlight the parallels of this “ism” between antigay
+        sentiment, racism, antisemitism, and sexism (UC Davis).
+    \n \n  -  <b>Racism: </b>The pre-conceived erroneous beliefs that everyone in a race has the same characteristics, abilities,
+        or qualities. These perceptions tend to be linked to group stereotypes and distinguish the race as being inferior
+        (Hoyt, 2012).
+    \n \n  -  <b>Sexism: </b>Linked to gender. This “ism” is also widespread and is deemed more acceptable than racism (UNICEF).
+        Like the other “isms", sexism can have a devastating impact on human lifestyle, health and well-being creating issues
+        that range from pay differentials and poor body image, to eating disorders.
+    \n \n <b>All of these "isms" are strongly linked to prejudice, power, oppression, and marginalization which are defined below:</b>
+    \n \n <b>Prejudice: </b>A preconceived opinion which shows bias and partiality without being based on reason or actual experience
+        (Hoyt, 2012). Prejudice has three key features as described on the UC Davis website:
+    \n \n - It is an attitude (i.e., an evaluation or judgement)
+    \n \n - It is directed at a social group and its members
+    \n \n - It is negative, involving hostility or dislike
+    \n \n <b>Power: </b>The ability to exert force on or over a person, a thing, or to hold influence within a system (Hoyt, 2012).
+    \n \n <b>Oppression: </b>The use of one\’s power or authority in an unjust, onerous, or cruel way (Hoyt, 2012).
+    \n \n <b>Culture: </b>Incorporates the shared patterns of understanding, socialization, thought processes, interactions and
+        behaviors cultivating in a unique group identity. Culture involves the food, religion, clothes, language, music, attitudes,
+        customs, and many more daily occurrences that cultivate and nurture the group identity (LiveScience website).
+    \n \n - <b>Cultural Competence: </b>Having cultural competence means recognizing and understanding the importance of cultural and
+        social influences on people\’s beliefs and behaviors; considering how the beliefs and behaviors interact at multiple levels
+        of the education system (example classroom, school, district); and devising interventions that take these factors into account
+        to, ensure quality education for a diverse student population (Betancourt, Green, Carrillo, &amp; Owusu Ananeh-Firempong, 2016).
+    \n \n - <b>Cultural Responsive Teaching: </b>Culturally responsive teaching (CRT) is central to meeting student learning needs. CRT
+        allows the teacher to effectively communicate AND information. This pedagogy provides equitable educational access for all student
+        by recognizing and celebrating individuals and their cultures. Culturally responsive teachers hold a positive outlook on students
+        and their families, communicate high expectations for all students, includes student-centered, culturally mediated instruction where
+        the teacher is the facilitator. Additionally, the curriculum is reshaped to provide learning experiences within the context of a
+        variety of cultures (Brown University).
+    \n \n - <b>Cultural Sensitivity: </b>A skill set that allows individuals to learn about and understand those that are different from them.
+        This understanding improves the ability of culturally sensitive individuals to meet the needs of the diverse community they serve
+        (Penn State University).
+    \n \n <b>Diversity: </b>Cultural diversity appreciates each the differences of each individual. There are many differences but some may
+        include age, body type, ethnicity, gender, mental ability, physical ability, race, sexual orientation, religion, and social economic
+        status (Study.com).
+    \n \n <b>Equity: </b>Freedom from favoritism or bias, resulting in justice according to natural law (Merriam-Webster Dictionary).
+    \n \n <b>Intersectionality: </b>A way to conceptualize an individual or a group of people that are impacted by more than one type of
+        discrimination for example, minority women. Intersectionality takes the overlapping identities and experiences of these individuals
+        or groups to understand the  complexities of the prejudices that they must navigate. Intersectionality theory states that that people
+        are frequently disadvantaged by more than one source of oppression because of race, ethnicity, gender identity, sexual orientation,
+        socio-economic status, and religion to name a few (YWBoston).
+    \n \n <b>LGBTQ+: </b>Lesbian, Gay, Bisexual, Transsexual, Queer, Transsexual, Two-Spirit, Questioning, Intersex, Asexual, or Ally.
+        Individuals belonging to these groups are also sometimes referred to as belonging to the Queer or Rainbow Community (OK2BME).
+    \n \n <b>Marginalization: </b>The process of pushing a person or a group of people to the edge of society by denying them an active
+        voice, an identity, or a place within the society. The processes may push the group to the margins directly or indirectly, but
+        the result is that marginalized people feel less important and secondary to those holding power and privilege (Syracuse University).
+    \n \n <b>Micro-Agression: </b>Intentional or unintentional slights, snubs, or insults that are experienced on a daily basis by individuals
+        belonging to marginalized groups. Micro-aggressions can be verbal, non-verbal or even environmental in nature. The messages contained
+        in micro-aggressions are often negative, derogatory or even hostile. Many messages are demeaning, and invalidate the experiential reality
+        and/or the group identity of the individual. This invalidation sends the message that individuals belonging to this group are lesser
+        human beings that have no place within the majority group, leading to marginalization (Psychology Today). It is important to note that
+        in and of itself, a micro-aggression is tiny and would not be harmful. Unfortunately though, when micro-aggressions are experienced multiple
+        times a day, every day, can have a cumulative effect on the target. These effects can lead to health disparities.
+    \n \n <b>The Phobias: </b>Phobias are irrational fears. These fears often lead to discomfort, hatred, or mistrust of individuals belonging to
+        these groups. Biphobia, homophobia, and transphobia are not the same thing; straight and gay individuals can be biphobic or transphobic.
+        Some people may not be homophobic or biphobic but are transphobic (Planned Parenthood).
+    \n \n - <b>Biphobia: </b>The irrational fear of bisexual individuals.
+    \n \n - <b>Homophobia: </b>The irrational fear of gay, lesbian, or bisexual people.
+    \n \n - <b>Transphobia: </b>The irrational fear of transgender, genderqueer or those who do not conform to gender norms.
+    \n \n <b>References: </b>
+    \n \n Betancourt, J. R., Green, A. R., Carrillo, J. E., &amp; Owusu Ananeh-Firempong, I. I. (2016). Defining cultural competence: a practical
+        framework for addressing racial/ethnic disparities in health and health care. <i>Public health reports.</i>
+    \n \n Brown University: https://www.brown.edu/academics/education-alliance/teaching-diverse-learners/strategies-0/culturally-responsive-teaching-0.
+        \n \n Hoyt Jr, C. (2012). <i>The pedagogy of the meaning of racism: Reconciling a discordant discourse. Social work, 57(3), 225-234.</i>
+    \n \n LiveScience Website: https://www.livescience.com/21478-what-is-culture-definition-of-culture.html
+    \n \n Mirriam-Webster Dictionary: https://www.merriam-webster.com/dictionary/equity
+    \n \n OK2BME : https://ok2bme.ca/resources/kids-teens/what-does-lgbtq-mean/
+    \n \n Penn State University: https://extension.psu.edu/cultural-sensitivity-in-the-workplace
+    \n \n Planned Parenthood Website: https://www.plannedparenthood.org/learn/sexual-orientation-gender/sexual-orientation/what-homophobia
+    \n \n Study.com: https://study.com/academy/lesson/cultural-diversity-in-the-workplace-definition-trends-examples.html
+    \n \n Syracus University: http://counselingcenter.syr.edu/social-justice/impact-of-marginalization.html
+    \n \n Psychology Today website: https://www.psychologytoday.com/us/blog/microaggressions-in-everyday-life/201011/microaggressions-more-just-race
+    \n \n UC Davis Website: https://psychology.ucdavis.edu/rainbow/html/prej_defn.html
+    \n \n UNICEF Website: https://www.unicef.ie/wp-content/themes/iboot-child/micro-sites/itsaboutus/cards/unicef-itsaboutus-gender-sexism.pdf
+    \n \n World Health Organization: https://www.who.int/ageing/ageism/en/
+    \n \n YW Boston Website: https://www.ywboston.org/2017/03/what-is-intersectionality-and-what-does-it-have-to-do-with-me/</string>
+</resources>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ScrollView02"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/sessiondescriptions"
+            android:layout_width="wrap_content"
+            android:layout_height="2200dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginStart="70dp"
+            android:layout_marginLeft="70dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginEnd="30dp"
+            android:layout_marginRight="30dp"
+            android:text="@string/sessiondescr"
+            android:textColor="#000000"
+            android:textSize="40sp" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="102dp"
+            android:layout_alignStart="@+id/sessiondescriptions"
+            android:layout_alignLeft="@+id/sessiondescriptions"
+            android:layout_alignTop="@+id/sessiondescriptions"
+            android:layout_alignEnd="@+id/sessiondescriptions"
+            android:layout_alignRight="@+id/sessiondescriptions"
+            android:layout_alignBottom="@+id/sessiondescriptions"
+            android:layout_marginStart="0dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="110dp"
+            android:layout_marginEnd="0dp"
+            android:layout_marginRight="0dp"
+            android:layout_marginBottom="1988dp"
+            android:autoSizeTextType="uniform"
+            android:text="@string/sessiondescrdisclaimer"
+            android:textColor="#000000" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="wrap_content"
+            android:layout_height="94dp"
+            android:layout_alignStart="@+id/sessiondescriptions"
+            android:layout_alignLeft="@+id/sessiondescriptions"
+            android:layout_alignTop="@+id/sessiondescriptions"
+            android:layout_alignEnd="@+id/sessiondescriptions"
+            android:layout_alignRight="@+id/sessiondescriptions"
+            android:layout_alignBottom="@+id/sessiondescriptions"
+            android:layout_centerHorizontal="false"
+            android:layout_marginStart="1dp"
+            android:layout_marginLeft="1dp"
+            android:layout_marginTop="213dp"
+            android:layout_marginEnd="-1dp"
+            android:layout_marginRight="-1dp"
+            android:layout_marginBottom="1893dp"
+            android:autoSizeTextType="uniform"
+            android:gravity="center"
+            android:text="@string/breakoutsessions"
+            android:textColor="#000000" />
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="wrap_content"
+            android:layout_height="53dp"
+            android:layout_alignStart="@+id/sessiondescriptions"
+            android:layout_alignLeft="@+id/sessiondescriptions"
+            android:layout_alignTop="@+id/sessiondescriptions"
+            android:layout_alignEnd="@+id/sessiondescriptions"
+            android:layout_alignRight="@+id/sessiondescriptions"
+            android:layout_alignBottom="@+id/sessiondescriptions"
+            android:layout_centerHorizontal="false"
+            android:layout_marginStart="-1dp"
+            android:layout_marginLeft="-1dp"
+            android:layout_marginTop="308dp"
+            android:layout_marginEnd="1dp"
+            android:layout_marginRight="1dp"
+            android:layout_marginBottom="1839dp"
+            android:autoSizeTextType="uniform"
+            android:gravity="center"
+            android:text="@string/junefifth"
+            android:textColor="#000000" />
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="wrap_content"
+            android:layout_height="769dp"
+            android:layout_alignStart="@+id/sessiondescriptions"
+            android:layout_alignLeft="@+id/sessiondescriptions"
+            android:layout_alignTop="@+id/sessiondescriptions"
+            android:layout_alignEnd="@+id/sessiondescriptions"
+            android:layout_alignRight="@+id/sessiondescriptions"
+            android:layout_alignBottom="@+id/sessiondescriptions"
+            android:layout_marginStart="0dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="362dp"
+            android:layout_marginEnd="0dp"
+            android:layout_marginRight="0dp"
+            android:layout_marginBottom="1069dp"
+            android:autoSizeTextType="uniform"
+            android:text="@string/sessiondescr5"
+            android:textColor="#000000" />
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_alignStart="@+id/sessiondescriptions"
+            android:layout_alignLeft="@+id/sessiondescriptions"
+            android:layout_alignTop="@+id/sessiondescriptions"
+            android:layout_alignEnd="@+id/sessiondescriptions"
+            android:layout_alignRight="@+id/sessiondescriptions"
+            android:layout_gravity="center"
+            android:layout_marginStart="-1dp"
+            android:layout_marginLeft="-1dp"
+            android:layout_marginTop="1133dp"
+            android:layout_marginEnd="1dp"
+            android:layout_marginRight="1dp"
+            android:autoSizeTextType="uniform"
+            android:gravity="center"
+            android:text="@string/junesixth"
+            android:textColor="#000000" />
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="wrap_content"
+            android:layout_height="700dp"
+            android:layout_alignStart="@+id/sessiondescriptions"
+            android:layout_alignLeft="@+id/sessiondescriptions"
+            android:layout_alignTop="@+id/sessiondescriptions"
+            android:layout_alignEnd="@+id/sessiondescriptions"
+            android:layout_alignRight="@+id/sessiondescriptions"
+            android:layout_alignBottom="@+id/sessiondescriptions"
+            android:layout_marginStart="0dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="1184dp"
+            android:layout_marginEnd="0dp"
+            android:layout_marginRight="0dp"
+            android:layout_marginBottom="113dp"
+            android:autoSizeTextType="uniform"
+            android:text="@string/sessiondescr6"
+            android:textColor="#000000" />
+
+    </RelativeLayout>
+</ScrollView>
